@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+model.joblib
+mlruns/
+mlartifacts/
+data/
+.ipynb_checkpoints/
