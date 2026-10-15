@@ -28,3 +28,6 @@ print("Accuracy:", accuracy)
 # 5. Save the trained model
 joblib.dump(model, "model.joblib")
 print("Model saved successfully!")
+
+#After creating feature file for version updation
+print("Training workflow executed successfully.")
